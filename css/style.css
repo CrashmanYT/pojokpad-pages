@@ -14,7 +14,7 @@ h1 {
     font-family: AnonymousProBoldss;
 }
 li {
-    margin-left: 840%;
+    margin-left: 800%;
 }
 .navbar {
     box-shadow: 0px 2px 2px black;
@@ -112,3 +112,4 @@ footer h1 {
 footer {
     background-color: rgb(58, 58, 58);
 }
+
